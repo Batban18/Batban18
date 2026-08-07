@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Bharath%20Nagaraju&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Penetration%20Testing%20%C2%B7%20GRC%20%26%20Compliance%20%C2%B7%20Application%20Security&descAlignY=56&descSize=17" width="100%"/>
+<img src="banner.png" width="100%" alt="Bharath Nagaraju — Penetration Testing, GRC & Compliance, Application Security"/>
 
 <a href="https://www.linkedin.com/in/bharath-nagaraju-cybersecurity"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://tryhackme.com/p/BatBAN"><img src="https://img.shields.io/badge/TryHackMe%20%E2%80%94%20Top%203%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=88CC14"/></a>
@@ -146,6 +146,5 @@ Four years across offensive security, compliance, and security operations. I tes
 
 <sub>Everything published here is built against legal targets, public datasets, and deliberately vulnerable applications.<br/>No client, employer, or third-party data appears in any repository.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer" width="100%"/>
 
 </div>
